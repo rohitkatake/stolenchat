@@ -1,0 +1,2 @@
+Main-Class: ChatClient
+SplashScreen-Image: 190_logo.jpg
